@@ -4,7 +4,7 @@
   <title><![CDATA[reduce()]]></title>
   <link href="http://messiach.github.com/atom.xml" rel="self"/>
   <link href="http://messiach.github.com/"/>
-  <updated>2012-08-12T18:57:26-04:00</updated>
+  <updated>2012-08-12T19:22:35-04:00</updated>
   <id>http://messiach.github.com/</id>
   <author>
     <name><![CDATA[messiach]]></name>
@@ -23,10 +23,10 @@ The intent is to share some of my experiences coding, both in the PLM realm and 
 Perhaps this blog will also improve my writing again - funny to think I <i>used</i> to write quite often, but have gotten so rusty at it&#8230;</p>
 
 <p>I jump around quite often between languages and paradigms - learning much and having a lot of fun :)
-By trade, I&#8217;m a Java developer or sorts&#8230;and a systems and migration person of sorts.
+By trade, I&#8217;m a Java developer of sorts&#8230;and a systems and migration person of sorts.
 But, I&#8217;ve developed in many languages and on many different systems.</p>
 
-<p>Currently, my focus has been on developing a front end in Clojure for one of the migation tools I&#8217;m using.
+<p>Currently, my focus has been on developing a front end in Clojure for one of the migration tools I&#8217;m using.
 I&#8217;m also going through the Standford lectures on Programming Paradigms to refresh myself on the low level concepts I&#8217;ve been away from for oh so long&#8230;</p>
 ]]></content>
   </entry>
