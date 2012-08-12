@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Blog Up"
+date: 2012-08-12 12:05
+comments: true
+categories: 
+---
+This is the first post I'm making on this blog (obviously). 
+The intent is to share some of my experiences coding, both in the PLM realm and just in general.
+Perhaps this blog will also improve my writing again - funny to think I <i>used</i> to write quite often, but have gotten so rusty at it...
+
+I jump around quite often between languages and paradigms - learning much and having a lot of fun :)
+By trade, I'm a Java developer or sorts...and a systems and migration person of sorts.
+But, I've developed in many languages and on many different systems.
+
+Currently, my focus has been on developing a front end in Clojure for one of the migation tools I'm using. 
+I'm also going through the Standford lectures on Programming Paradigms to refresh myself on the low level concepts I've been away from for oh so long...
